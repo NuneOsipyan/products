@@ -1,0 +1,18 @@
+.navstyle{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1100px;
+    margin: auto;
+}
+
+.navBtn{
+    background-color: bisque;
+    padding: 10px;
+    border-radius:50px ;
+}
+
+.navBtn:hover{
+    background-color: black;
+    color:bisque ;
+    padding: 11px;
+}

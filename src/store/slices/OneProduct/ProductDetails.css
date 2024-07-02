@@ -1,0 +1,13 @@
+.one{
+  
+        display: flex;
+        width: 500px;
+        flex-direction: column;
+        margin-top: 50px;
+        margin-left: 50px;
+        border: 1px solid white;
+        padding: 5px;
+        align-items: center;
+        border: 1px solid black;
+      
+}
